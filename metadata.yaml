@@ -1,0 +1,33 @@
+_repo: The-Titan_3629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
+description: "The Titan is a novel written by Theodore Dreiser in 1914. It is Dreiser's\
+  \ sequel to The Financier.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3629'
+  wikidata: Q4458189
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Titan
+url: http://www.gutenberg.org/ebooks/3629
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D5%8F%D5%AB%D5%BF%D5%A1%D5%B6%D5%A8_(%D5%BE%D5%A5%D5%BA)
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://en.wikipedia.org/wiki/The_Titan_(novel)
