@@ -1,5 +1,8 @@
 _repo: The-Titan_3629
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dreiser, Theodore
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
 description: "The Titan is a novel written by Theodore Dreiser in 1914. It is Dreiser's\
   \ sequel to The Financier.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3629#The-Titan
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
